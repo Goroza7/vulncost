@@ -126,7 +126,7 @@
   "dependencies": {
     "@babel/parser": "^7.12.11",
     "@babel/traverse": "^7.23.2",
-    "@babel/types": "^7.12.12",
+    "@babel/types": "^7.27.6",
     "@snyk/configstore": "^3.2.0-rc1",
     "axios": "0.21.3",
     "find-package-json": "^1.2.0",
