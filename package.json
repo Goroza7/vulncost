@@ -124,7 +124,7 @@
     "trailingComma": "es5"
   },
   "dependencies": {
-    "@babel/parser": "^7.12.11",
+    "@babel/parser": "^7.27.5",
     "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.12.12",
     "@snyk/configstore": "^3.2.0-rc1",
